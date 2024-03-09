@@ -284,8 +284,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Moehring]
+  first_name: [Alex]
 
   style: apa
   locale: en
@@ -305,7 +305,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: group
   group_order: descending
 
 # Display different badges withs stats for your publications
