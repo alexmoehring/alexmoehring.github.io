@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Alex Moehring",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "moehring@mit.edu",
+    "phone": "(919) 606-3475",
+    "url": "https://alexmoehring.com",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
