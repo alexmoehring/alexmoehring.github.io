@@ -5,8 +5,6 @@ title: research
 description: 
 nav: true
 nav_order: 2
-toc:
-  sidebar: left
 ---
 
 <!-- _pages/publications.md -->
