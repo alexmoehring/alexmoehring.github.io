@@ -18,15 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+I am an assistant professor at the Daniels School of Business 
+at Purdue University. My research focuses on the economics of digitization
+with an emphasis on digital platforms, Human-AI interaction,
+and social influence. 
 
-I'm a PhD candidate in Management Science at the MIT Sloan School 
-of Management. My research focuses on the economics of digitization
-with an emphasis on content platforms, social influence,
-and Human-AI interaction. 
-
-Prior to graduate school, I was a research assistant at 
-Microsoft Research and an analyst at Wells Fargo Securities.
-I hold an SM in Management Research from the MIT Sloan
+I hold a PhD from the MIT Sloan
 School of Management in addition to a BS in Business Administration 
 and BA in Economics from the University of North Carolina 
-at Chapel Hill.
+at Chapel Hill. I have also worked as a research assistant at 
+Microsoft Research and an analyst at Wells Fargo Securities.
