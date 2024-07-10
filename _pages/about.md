@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student, MIT Sloan School of Management
+subtitle: Assistant Professor, Purdue University - Daniels School of Business
 
 profile:
   align: right
