@@ -9,9 +9,9 @@ profile:
   image: moehring-alex-headshot.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>100 Main Street</p>
-    <p>E62-390</p>
-    <p>Cambridge, MA 02142</p>
+    <p>155 S Grant St</p>
+    <p>Young Hall-943</p>
+    <p>West Lafayette, IN 47907</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
