@@ -19,6 +19,6 @@ AM was previously an employee of Microsoft, Keystone Strategies, and Wells Fargo
 </p>
 
 <p>
-Some of AM’s research is or has been funded by the Alfred P. Sloan Foundation, JPAL, Facebook, and the Net Institute.
+Some of AM’s research is or has been funded by the Alfred P. Sloan Foundation, JPAL, Facebook, the Net Institute, and Schmidt Sciences.
 </p>
 </div>
