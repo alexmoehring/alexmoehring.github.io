@@ -9,8 +9,8 @@ profile:
   image: moehring-alex-headshot.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>155 S Grant St</p>
-    <p>Young Hall-943</p>
+    <p>403 Mitch Daniels Blvd</p>
+    <p>Krannert 540</p>
     <p>West Lafayette, IN 47907</p>
 
 news: false # includes a list of news items
