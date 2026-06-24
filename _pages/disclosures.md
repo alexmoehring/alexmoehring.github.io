@@ -11,11 +11,11 @@ nav_order: 4
 <div class="publications">
 
 <p>
-Alex Moehring (AM) is currently an employee of Purdue University.
+Alex Moehring (AM) is currently an employee of the University of Pennsylvania.
 </p>
 
 <p>
-AM was previously an employee of Microsoft, Keystone Strategies, and Wells Fargo Securities.
+AM was previously an employee of Purdue University, Microsoft, Keystone Strategies, and Wells Fargo Securities.
 </p>
 
 <p>
