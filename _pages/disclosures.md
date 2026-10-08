@@ -20,5 +20,6 @@ AM was previously an employee of Purdue University, Microsoft, Keystone Strategi
 
 <p>
 Some of AM’s research is or has been funded by the Alfred P. Sloan Foundation, JPAL, Facebook, the Net Institute, and Schmidt Sciences.
+AM has received cloud credits from Google to support his research.
 </p>
 </div>
